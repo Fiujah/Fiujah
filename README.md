@@ -101,5 +101,5 @@ Me chamo Renan Fiuja, tenho 27 anos e sou de São Paulo, sempre fui apaixonado p
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiujah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+ 
 </p>
