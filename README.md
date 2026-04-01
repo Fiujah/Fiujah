@@ -2,7 +2,12 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Renan Fiuja, tenho 27 anos e sou de São Paulo, sempre fui apaixonado por tecnologia e pela acessibilidade que ela pode alcançar, brinco que iniciei minha carreira pela programação usando o Game Maker 3 aos 12 anos de idade, mas foi aos 25 anos que eu realmente iniciei meus estudos na área. Meu objetivo é impactar a sociedade com uma visão fora da caixinha, em busca de melhorar a vida das pessoas ao redor do mundo utilizando o melhor que a tecnologia puder oferecer.
+Sou Analista de Sistemas Pleno com atuação voltada à melhoria contínua de processos logísticos e automação de tarefas, utilizando dados como base para tomada de decisão e ganho de eficiência operacional.
+
+Possuo forte conhecimento em SQL e experiência no desenvolvimento de soluções que otimizam rotinas e reduzem atividades manuais.
+
+Atualmente, estou expandindo minha atuação para o desenvolvimento de sistemas, com foco em **JavaScript, HTML e CSS**, em busca de oportunidades que unam análise de dados e desenvolvimento de software.
+
 
 ---
 
