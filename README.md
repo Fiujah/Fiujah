@@ -85,15 +85,15 @@ Me chamo Renan Fiuja, tenho 27 anos e sou de São Paulo, sempre fui apaixonado p
 <br/>
 
 ### 📊 Estatísticas
-
 <p align="center">
-  <img 
-    height="200" 
-    src="https://github-readme-stats-three-sable-92.vercel.app/api?username=Fiujah&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
-  />
-
-  <img 
-    height="200"
+   <img 
+    height="300"
     src="https://github-readme-stats-three-sable-92.vercel.app/api/top-langs/?username=Fiujah&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
   />
-</p>
+ </p>
+ <p align="center">
+    <img 
+    height="220" 
+    src="https://github-readme-stats-three-sable-92.vercel.app/api?username=Fiujah&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+  />
+ </p>
